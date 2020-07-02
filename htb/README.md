@@ -3,7 +3,7 @@
 ## General ##
 The majority of these boxes were done as part of preparation to take the OSCP exam. I went back through my notes and created write-ups for each of them and additional information, screenshots, and links to external resources. I wanted to keep them concise and to the point while still showing enough detail/links/information to provide a clear path to get user and systme/root on the boxes. 
 
-All boxes were done without the use of Metasploit because as mentioned they were done in prepartion for the exam. I don't have anything against metasploit but I think more can be learned without it as it forces you to understand how the exploit works.
+All boxes were done without the use of Metasploit because as mentioned they were done in prepartion for the exam. I don't have anything against metasploit but I think more can be learned without it as it forces you to understand how various exploits work.
 
 ## Write-up Format ##
 
